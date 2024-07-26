@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/toxicity-classifier.git
+git clone [https://github.com/yourusername/toxicity-classifier.git](https://github.com/Rehan018/Toxicity-Analysis)
 cd toxicity-classifier
 ```
 
